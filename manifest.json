@@ -1,0 +1,21 @@
+{
+    "short_name": "EOSG",
+    "name": "Employers One Source Group",
+    "icons": [
+        {
+            "src": "assets/img/logo-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+    },
+        {
+            "src": "assets/img/logo-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+    }
+  ],
+    "start_url": "index.html",
+    "background_color": "#d3e2d3",
+    "display": "standalone",
+    "scope": "/index.html/",
+    "theme_color": "#1E824C"
+}
